@@ -1,0 +1,18 @@
+
+* { box-sizing: border-box; }
+
+/* STRUCTURE */
+
+.about {
+    padding: 5px;
+    max-width: 960px;
+    width: 95%;
+    margin: 40px auto;
+}
+
+.columns {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin: 5px 0;
+}
